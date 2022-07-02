@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileSample", "..\Profile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "..\GameOfLife\GameOfLife\GameOfLife.csproj", "{BDFD7BAE-9744-44C4-8259-B3757F24B245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculator", "..\Calculator\MyCalculator\MyCalculator.csproj", "{BF481444-9A1F-413B-8FDA-008464421F46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculator", "MyCalculator\MyCalculator.csproj", "{BF481444-9A1F-413B-8FDA-008464421F46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
